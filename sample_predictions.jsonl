@@ -1,0 +1,4 @@
+{"id":"q1","question":"What is the refund period?","reference_answer":"30 days","model_answer":"30 days","context":"Customers may request a refund within 30 days of purchase."}
+{"id":"q2","question":"How do I contact support?","reference_answer":"support email","model_answer":"call the support line","context":"Contact the team using the support email listed in your dashboard."}
+{"id":"q3","question":"What is the trial duration?","reference_answer":"14 days","model_answer":"fourteen days","context":"The standard trial lasts 14 days from signup."}
+{"id":"q4","question":"Which payment method is accepted?","reference_answer":"credit card","model_answer":"credit card","context":"Payment is available by credit card or bank transfer."}

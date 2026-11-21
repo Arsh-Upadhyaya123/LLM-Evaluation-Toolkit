@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+*.sqlite3
+artifacts/
+output/
+evaluation_report.json
+.DS_Store
